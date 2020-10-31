@@ -12,11 +12,11 @@
           <q-card class="my-card">
             <q-card-section class="top-card">
               <div class="text-h6">Chapel do sol</div>
-              <div class="text-subtitle2">by John Doe</div>
+              <div class="text-subtitle2">Ativa</div>
             </q-card-section>
 
-            <q-card-actions vertical align="right">
-              <q-btn flat>Action 1</q-btn>
+            <q-card-actions vertical align="center">
+              <q-btn flat>Visualizar</q-btn>
             </q-card-actions>
           </q-card>
         </div>
